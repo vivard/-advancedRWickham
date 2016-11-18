@@ -1,1 +1,1 @@
-a <- 1:10
+library(data.table)
